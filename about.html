@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html>
+    <!--
+    ====================================================
+     ___          _____       ____
+    \     |      |     |    |     |
+    \  0   \    |       |  |       |
+    \     \     |       |  |       |
+    \ | \ \     |     _ |  |     _ |
+    \ |  \ \    |    /  |  |    /  |
+    | |    \ \   |___|_|    | __|_|
+    ====================================================
+    Well hello ms 'lets look at the source code'!
+    Fancied a quick look under the bonnet did we? ;)
+
+    Get in touch!
+    Twitter: rosie934
+    Email: rosiebrigham@gmail.com
+    ====================================================
+  -->
+  <head>
+    <meta charset="utf-8">
+    <title>About</title>
+    <meta name="description" content="Adventure is out there!">
+    <meta name="keywords" content="Rosie Brigham, rosie934, travelling developer, Roos Rambles">
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="/images/logo3.png">
+    <meta name="twitter:title" content="Rosie">
+    <meta name="twitter:description" content="Adventure is out there!">
+    <meta name="twitter:creator" content="@rosie934">
+
+
+    <!-- http://t.co/dKP3o1e -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700&amp;subset=latin,latin-ext' rel='stylesheet'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600&amp;subset=latin,latin-ext' rel='stylesheet'>
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/vendor/normalizeb146.css?v=77a7756db2">
+    <link rel="stylesheet" href="/css/vendor/foundation.minb146.css?v=77a7756db2">
+    <link rel="stylesheet" href="/css/styleb146.css?v=77a7756db2">
+    <link rel="stylesheet" href="/css/postb146.css?v=77a7756db2">
+    <script src="/assets/js/vendor/modernizrb146.js?v=77a7756db2"></script>
+
+
+
+
+
+    <!-- Icons -->
+    <!-- 16x16 -->
+    <link rel="shortcut icon" href="/favicon.ico">
+    <!-- 32x32 -->
+    <link rel="shortcut icon" href="/favicon.png">
+    <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
+    <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/apple-touch-icon-72x72-precomposed.png">
+    <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/apple-touch-icon-114x114-precomposed.png">
+    <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
+
+    <!-- for ze mapp - to be removed later -->
+    <style type="text/css">
+      #map { height: 600px; }
+    </style>
+
+  </head>
+  <body class="post-template page" itemscope itemtype="http://schema.org/WebPage">
+
+    <main id="summer-page-container" class="summer-page-container" role="main">
+
+
+      <header class="summer-page-header">
+        <div class="summer-page-menu-header">
+
+          <div class="summer-blog-menu">      
+            <div class="summer-mobile-menu show-for-small">
+              <a href="#"><i class="fa fa-bars"></i></a>
+            </div>
+            <ul class="summer-menu">
+              <li class="summer-mobile-close-btn show-for-small text-right">
+                <a href="#"><i class="fa fa-times"></i></a>
+              </li>
+
+              <li>
+                <a href="/">Home</a>
+              </li>
+
+              <li>
+                <a href="/featured">Featured Posts</a>
+              </li>
+
+              <li>
+                <a href="/categories">Categories</a>
+              </li>
+
+              <li>
+                <a href="/about">About</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="summer-page-title row">
+          <div class="small-12 columns">
+            <h1>The Route So Far</h1>
+          </div>
+        </div>
+      </header>
+
+      <article class="summer-page-content">
+        <div>
+
+          <p>
+            Yup - there really has been no real plan so far.
+          </p>
+
+          <div id="map"></div>
+          <script type="text/javascript">
+            function initMap() {
+              var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 6,
+                center: {lat: -39.9202518, lng: 171.3535423},
+                mapTypeId: google.maps.MapTypeId.TERRAIN
+              });
+
+              var auckland = {lat: -36.8513387, lng: 174.7568343}
+              var waiheke = {lat: -36.7930897, lng: 174.7568343}
+              var coromandel = {lat: -36.7506983, lng: 175.4051815}
+              var whitianga = {lat: -36.8165885, lng: 175.6339418}
+              var wellington = {lat: -41.2442852, lng: 174.6217707}
+              var nelson = {lat: -41.2628552, lng: 173.2682627}
+              var nelsonlakes = {lat: -41.9689772, lng: 172.6881971}
+              var nelsonbeach = {lat: -41.2834979, lng: 173.2449613}
+              var tasman = {lat: -41.209881, lng: 173.0691906}
+
+
+              var flightPlanCoordinates = [
+                auckland, // auckland
+                waiheke, // waiheke
+                coromandel, // coromandel
+                whitianga,  // whitianga
+                wellington,
+                nelson,  // nelson
+                nelsonlakes, // nelson lakes
+                nelsonbeach,  // nelson
+                tasman,  // tasman
+
+              ];
+              var flightPath = new google.maps.Polyline({
+                path: flightPlanCoordinates,
+                geodesic: true,
+                strokeColor: '#86166C',
+                strokeOpacity: 1.0,
+                strokeWeight: 2
+              });
+
+              flightPath.setMap(map);
+
+              var image = '../img/flag2.png';
+              var marker = new google.maps.Marker({
+                position: auckland,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: waiheke,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: coromandel,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: whitianga,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: wellington,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: nelson,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: nelsonlakes,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: nelsonbeach,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: tasman,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+            }
+          </script>
+            <script async defer
+              src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAi17OM2M3hvG6GyPSOjZSuoTE8G39zPVw&callback=initMap">
+            </script>
+
+          <p>I have hoiked the source code from a theme called Notepad, which is great - but It will take a while to defeat some of the wierd CSS rules - so please bear with.</p>
+
+        </div>
+      </article>
+      <div class="cf"></div>
+      <footer class="summer-site-footer">
+        <div class="copyright">
+          <section>All content copyright <a href="">Rosie Brigham</a> &copy; 2016 &bull; All rights reserved.</section>
+          <section>Proudly published with <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a></section>
+        </div>
+        <div class="social-icons">
+
+          <a href="http://twitter.com/rosie934">
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+              <i class="fa fa-twitter fa-stack-1x"></i>
+            </span>
+          </a>
+
+          <a href="http://github.com/Rosie-Brigham">
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+              <i class="fa fa-github fa-stack-1x"></i>
+            </span>
+          </a>
+
+        </div>
+
+        <div class="cf"></div>
+      </footer>
+    </main>
+
+    <script src="/js/public/jqueryb146.js?v=77a7756db2"></script>
+
+
+    <script src="/js/vendor/fastclickb146.js?v=77a7756db2"></script>
+    <script src="/js/vendor/foundation.minb146.js?v=77a7756db2"></script>
+    <script src="/js/vendor/background-checkb146.js?v=77a7756db2"></script>
+    <script src="/js/vendor/post-header-animationsb146.js?v=77a7756db2"></script>
+    <script src="/js/summerb146.js?v=77a7756db2"></script>
+
+
+</body>
+</html>
