@@ -24,5 +24,5 @@ title: Waiheke Island
 
 ## First day in New Zealand...
 ![A swing]({{site.baseurl}}/images/waiheke.jpg)
-
+<br/>
 ...and I really have very few images to show for it...
