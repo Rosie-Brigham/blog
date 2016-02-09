@@ -16,6 +16,12 @@ comments: false
 title: Coromandel Town
 ---
 
-## A New Post
+![In Mission Bay]({{site.baseurl}}/images/a_thumb_IMG_7611_1024.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Next stop, Coromandel Town
+
+Top tip - if you want to treat yourself to an amazing tour of Mission Bay, the wind in your hair and the salt in your face then skip the bus and get the ferry across to Coromandel. It's half the time (double the money) but definately worth it.
+{:.two-images}
+![Mission Bay]({{site.baseurl}}/images/a_thumb_IMG_7613_1024.jpg)
+{:.two-images}
+![Mission Bay]({{site.baseurl}}/images/a_thumb_IMG_7614_1024.jpg)
