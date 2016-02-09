@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 description: "Coromandel Town - unsurprisingly on the Coromandel Penninsular"
 headline: ""
 modified: ""
@@ -26,7 +26,9 @@ Top tip - if you want to treat yourself to an amazing tour of Mission Bay, the w
 {:.two-images}
 ![Mission Bay]({{site.baseurl}}/images/a_thumb_IMG_7614_1024.jpg)
 
-The one thing to note with the ferry is that they will try to sell you onward trips, like a $40 trip to a beach, or shuttle buses to a specific walk. Don't bother. The bus will drop you off outside the local tourist office. The staff are absolutely lovely and have a well produced map of the local walks, which are really good.
+The one thing to note with the ferry is that they will try to sell you onward trips, like a $40 trip to a beach, or shuttle buses to a specific walk. Don't bother. The bus wi![thumb_IMG_7626_1024.jpg]({{site.baseurl}}/images/thumb_IMG_7626_1024.jpg)
+![thumb_IMG_7631_1024.jpg]({{site.baseurl}}/images/thumb_IMG_7631_1024.jpg)
+ll drop you off outside the local tourist office. The staff are absolutely lovely and have a well produced map of the local walks, which are really good.
 
 ![At the viewpoint]({{site.baseurl}}/images/thumb_IMG_7624_1024.jpg)
 
