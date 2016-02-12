@@ -55,7 +55,7 @@ tags: [Room, blog, travel, New Zealand, programmer, code, tech, kiwi, food]
 {% else %}
 {% for post in site.posts %}
 <article class="summer-index-post post row">
-	<div class="small-12 medium-3 large-2 columns datetime">
+	<div class="small-12 medium-3 large-3 columns datetime">
 		<span class="summer-post-meta">
 			<time datetime="{{ post.date | date_to_xmlschema }}">
 				<span class="day">
@@ -67,7 +67,7 @@ tags: [Room, blog, travel, New Zealand, programmer, code, tech, kiwi, food]
 			</time>
 		</span>
 	</div>
-	<div class="small-12 medium-9 large-10 columns">
+	<div class="small-12 medium-9 large-9 columns">
 		<header class="summer-post-header">
 			<h3 class="summer-post-title">
 				<a href="{{ site.url }}{{ post.url }}">
