@@ -10,13 +10,14 @@ categories:
   - New Zealand
   - travel
 tags: ""
-imagefeature: ""
+imagefeature: "IMG_1759.jpg"
 mathjax: false
 featured: false
 comments: false
 title: new blog matey badger.
 ---
 
+![Me in front of Lake Rotura]({{site.baseurl}}/images/IMG_1759.jpg)
 
 ## So this is my new blog.
 

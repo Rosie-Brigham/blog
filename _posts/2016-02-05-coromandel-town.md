@@ -9,7 +9,7 @@ categories:
   - Coromandel
   - Travel
 tags: ""
-imagefeature: ""
+imagefeature: "thumb_IMG_7624_1024.jpg"
 mathjax: false
 featured: false
 comments: false

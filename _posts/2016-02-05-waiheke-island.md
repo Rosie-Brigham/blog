@@ -9,7 +9,7 @@ categories:
   - Waiheke
   - Travel
 tags: ""
-imagefeature: ""
+imagefeature: "waiheke1.jpg"
 mathjax: false
 featured: false
 comments: false
