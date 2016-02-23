@@ -35,6 +35,12 @@ It was, however, a very pretty beach.
 
 ![thumb_IMG_7639_1024.jpg]({{site.baseurl}}/images/thumb_IMG_7639_1024.jpg)
 
+{:.two-columns}
+![a1thumb_IMG_7647_1024.jpg]({{site.baseurl}}/images/a1thumb_IMG_7647_1024.jpg)
+
+{:.two-columns}
+![a4_thumb_IMG_7662_1024.jpg]({{site.baseurl}}/images/a4_thumb_IMG_7662_1024.jpg)
+
 {:.three-columns}
 ![I chased this gull around alot]({{site.baseurl}}/images/ap_thumb_IMG_7667_1024.jpg)
 
@@ -44,9 +50,7 @@ It was, however, a very pretty beach.
 {:.three-columns}
 ![ap3_thumb_IMG_7656_1024.jpg]({{site.baseurl}}/images/ap3_thumb_IMG_7656_1024.jpg)
 
-![a1thumb_IMG_7647_1024.jpg]({{site.baseurl}}/images/a1thumb_IMG_7647_1024.jpg)
 
 
 ![a2_thumb_IMG_7674_1024.jpg]({{site.baseurl}}/images/a2_thumb_IMG_7674_1024.jpg)
 
-![a4_thumb_IMG_7662_1024.jpg]({{site.baseurl}}/images/a4_thumb_IMG_7662_1024.jpg)
