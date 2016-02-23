@@ -1,10 +1,14 @@
 ---
 layout: post
 published: true
-description: ""
-headline: ""
+description: "Whitianga, Coromandel Peninsular"
+headline: Whitianga
 modified: ""
-categories: null
+categories: 
+  - New Zealand
+  - Coromandel
+  - Whitianga
+  - Travel
 tags: ""
 imagefeature: ""
 mathjax: false
