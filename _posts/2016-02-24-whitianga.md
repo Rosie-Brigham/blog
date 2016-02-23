@@ -18,6 +18,7 @@ title: Whitianga
 ---
 
 
+
 ![View from the top of the range that runs down the Coromandel]({{site.baseurl}}/images/thumb_IMG_1749_1024.jpg)
 
 Interestingly, it is pronounced 'fi-tianga', as in Maori a word start with 'Whi' forms a 'ffi' sound. Confusing to start with, but not after a while - and certainly not to bad when you start taking some UK pronounciations into account (Fowey, Southwark, Liskeard ect..).
@@ -35,10 +36,10 @@ It was, however, a very pretty beach.
 ![thumb_IMG_7639_1024.jpg]({{site.baseurl}}/images/thumb_IMG_7639_1024.jpg)
 
 {:.three-columns}
-![ap2_thumb_IMG_7680_1024.jpg]({{site.baseurl}}/images/ap2_thumb_IMG_7680_1024.jpg)
+![I chased this gull around alot]({{site.baseurl}}/images/ap_thumb_IMG_7667_1024.jpg)
 
 {:.three-columns}
-![I chased this gull around alot]({{site.baseurl}}/images/ap_thumb_IMG_7667_1024.jpg)
+![ap2_thumb_IMG_7680_1024.jpg]({{site.baseurl}}/images/ap2_thumb_IMG_7680_1024.jpg)
 
 {:.three-columns}
 ![ap3_thumb_IMG_7656_1024.jpg]({{site.baseurl}}/images/ap3_thumb_IMG_7656_1024.jpg)
