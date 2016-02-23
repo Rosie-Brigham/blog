@@ -10,7 +10,7 @@ categories:
   - Whitianga
   - Travel
 tags: ""
-imagefeature: "a2_thumb_IMG_7674_1024.jpg"
+imagefeature: "thumb_IMG_7704_1024.jpg"
 mathjax: false
 featured: false
 comments: false
