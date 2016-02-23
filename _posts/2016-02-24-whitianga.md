@@ -31,6 +31,7 @@ My time there was fairly marred by my eyes deciding to start exuding yellow gunk
 This diversion did, however make me late for my bus to **Hot Water Beach**. It's a bizarre beach about 1 hour from Whitianga which has a hot water spring underneath it. The side effect of this is that at low tide you can dig a pool which will fill up with warm water. It's essentially a DIY hot tub beach. Alas, as I was busy having my eye poked at, I got there as the tide was coming in and so no hot water pools for me. Just some gentle hilarity watching others deseperately dig pools and sit in them in denial trying to persuade themselves that it's warm as the tide comes creeping towards them. Did I take any photos of this? No, that would be far too sensible.
 
 It was, however, a very pretty beach.
+
 ![thumb_IMG_7639_1024.jpg]({{site.baseurl}}/images/thumb_IMG_7639_1024.jpg)
 
 {:.three-columns}
