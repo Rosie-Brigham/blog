@@ -10,15 +10,12 @@ categories:
   - Travel
   - Coromandel
 tags: ""
-imagefeature: ""
+imagefeature: "thumb_IMG_7689_1024.jpg"
 mathjax: false
 featured: false
 comments: false
 title: Cathedral Cove
 ---
-
-![cathder]({{site.baseurl}}/images/thumb_IMG_7689_1024.jpg)
-
 
 So I visited Cathedral Cove on the same day as Hot Water Beach, but the post was getting too long so I thought I'd just do another one.
 
