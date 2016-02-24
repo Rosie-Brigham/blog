@@ -10,12 +10,13 @@ categories:
   - Whitianga
   - Travel
 tags: ""
-imagefeature: "thumb_IMG_7704_1024.jpg"
+imagefeature: thumb_IMG_7704_1024.jpg
 mathjax: false
 featured: false
 comments: false
 title: Whitianga
 ---
+
 
 
 
@@ -26,6 +27,8 @@ Interestingly, it is pronounced 'fi-tianga', as in Maori a word start with 'Whi'
 Anyhoo, the image above was taken from the top of the mountain range that runs down the Coromandel Penninsular whilst on an incredibly pleasant journey from Coromandel Town to Whitianga. One of the few plus points about New Zealand having no public transport (a gripe I will certainly address in a later post) is that the few services there are are completely tailored to tourists, so often the drivers will tell you about the history of the place you are driving through, and stop for photos at good viewpoints.
 
 I stayed two nights in Whitianga, at the [Turtle Cove Hostel](http://www.turtlecove.co.nz/) - which was made frankly excellent by having free wifi (a very rare thing, most hostels will give you 30 mins free and then charge several dollars per half hour after that, grrr...). Like Coromandel Town it was exceptionally small, though with a good bookshop and a vaugely acceptable beach to read my purchases on (a fairly trashy Ken Follet thiller about the search for a missing painting). 
+
+I spent a while wandering around the marina, hoping to start talking to some nice rich boat owners to make them see what they really needed was a nice new mate for their next venture. Unfortunately, the majority of the boats were big speed ones, used only for deep water fishing and the only people there were ones paid to clean them every now and again. Good conversations, but alas, no free day of sailing.
 
 My time there was fairly marred by my eyes deciding to start exuding yellow gunk and sticking together. I woke up and pretty much couldn't open my right eye, so figured I should probably pop to the pharmacist. Two hours, two pharmacy trips and one opthomologist apointment later I was armed with some eye drops, a bill and the knowledge that whilst I had conjunctivitis, I didn't have emmacular degeneration. Which is always nice.
 
@@ -53,4 +56,3 @@ It was, however, a very pretty beach.
 
 
 ![a2_thumb_IMG_7674_1024.jpg]({{site.baseurl}}/images/a2_thumb_IMG_7674_1024.jpg)
-
