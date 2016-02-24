@@ -140,6 +140,8 @@
               var nelsonlakes = {lat: -41.9689772, lng: 172.6881971}
               var nelsonbeach = {lat: -41.2834979, lng: 173.2449613}
               var tasman = {lat: -41.209881, lng: 173.0691906}
+              var christchurch = {lat: -43.5282261,lng: 172.5130863}
+              var sydney = {lat: -33.7945146, lng: 150.3619477}
 
 
               var flightPlanCoordinates = [
@@ -152,6 +154,8 @@
                 nelsonlakes, // nelson lakes
                 nelsonbeach,  // nelson
                 tasman,  // tasman
+                christchurch,  // christchurch
+                sydney,  // sydney
 
               ];
               var flightPath = new google.maps.Polyline({
@@ -223,6 +227,20 @@
 
               var marker = new google.maps.Marker({
                 position: tasman,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: christchurch,
+                map: map,
+                title: 'Hello World!',
+                icon: image
+              });
+
+              var marker = new google.maps.Marker({
+                position: sydney,
                 map: map,
                 title: 'Hello World!',
                 icon: image
