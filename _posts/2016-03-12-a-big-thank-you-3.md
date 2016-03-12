@@ -4,7 +4,8 @@ published: true
 description: ""
 headline: ""
 modified: ""
-categories: null
+categories: 
+  - "null"
 tags: ""
 imagefeature: ""
 mathjax: false
@@ -12,6 +13,7 @@ featured: false
 comments: false
 title: "A big thank you! <3"
 ---
+
 
 Hello! I am aware it has been a _very_ long time since I wrote a blog post, which I am very sorry about. I know it is the highlight of all your days and you are all literally _on the edge of your seat_ every time you open your laptop in the hope I have written something new! 
 
@@ -38,5 +40,4 @@ In the meantime here are some frankly awful selfies of me in different places ha
 ![]({{site.baseurl}}/images/IMG_2263.jpg)
 
 
-Sometimes I wonder what it would be like to be one of those people that puts on that makeup stuff and takes a dozen selfies a day pouting like a trout and generally being a narcissistic douchebag... then I remember that the world around me is much better than my silly reflection and if anyone wants to judge me on my beautifully unkempt appearance and (by now) fairly stained clothes the can quite frankly do one.
-
+Sometimes I wonder what it would be like to be one of those people that puts on that makeup stuff and takes a dozen selfies a day... then I remember that the world around me is much better than my silly reflection and if anyone wants to judge me on my beautifully unkempt appearance and (by now) fairly stained clothes the can quite frankly do one.
