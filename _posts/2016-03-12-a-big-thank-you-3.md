@@ -29,6 +29,7 @@ Watch this space..... ;)
 
 In the meantime here are some frankly awful selfies of me in different places having a great time. 
 
+{:.strip}
 ![]({{site.baseurl}}/images/IMG_1848.jpg)
 ![]({{site.baseurl}}/images/IMG_2114.jpg)
 ![]({{site.baseurl}}/images/IMG_2145.jpg)
