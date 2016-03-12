@@ -27,15 +27,15 @@ So this blog is now over 6 weeks behind where I am now.... but DO NOT FEAR! For 
 
 Watch this space..... ;)
 
-In the meantime here are some frankly awful selfies of me. 
+In the meantime here are some frankly awful selfies of me in different places having a great time. 
 
 ![]({{site.baseurl}}/images/IMG_1848.jpg)
 ![]({{site.baseurl}}/images/IMG_2114.jpg)
-![IMG_2145.jpg]({{site.baseurl}}/images/IMG_2145.jpg)
+![]({{site.baseurl}}/images/IMG_2145.jpg)
 ![]({{site.baseurl}}/images/IMG_2222.jpg)
 ![]({{site.baseurl}}/images/IMG_1944.jpg)
-![IMG_2263.jpg]({{site.baseurl}}/images/IMG_2263.jpg)
+![]({{site.baseurl}}/images/IMG_2263.jpg)
 
 
-Sometimes I wonder what it would be like to be one of those people that puts on that makeup stuff and takes a dozen selfies a day... then I remember that the world around me is much better than my silly reflection and if anyone wants to judge me on my beautifully unkept appearance and (by now) fairly stained clothes the can quite frankly do one.
+Sometimes I wonder what it would be like to be one of those people that puts on that makeup stuff and takes a dozen selfies a day pouting like a trout and generally being a narcissistic douchebag... then I remember that the world around me is much better than my silly reflection and if anyone wants to judge me on my beautifully unkempt appearance and (by now) fairly stained clothes the can quite frankly do one.
 
