@@ -22,21 +22,21 @@ core.readypenguinAttack = function() {
 core.runpenguinAttack = function() {
 
   // lining up the army of penguins
-  // var normalPosition = {
-  //   transform: 'none',
-  //   left: '-150px',
-  //   top: 0,
-  //   leftanimate: '+=150px',
-  //   leftanimateend: '-=150px',
-  //   topanimate: 'none',
-  //   topanimateend: 'none'};
+  var normalPosition = {
+    transform: 'none',
+    left: '-150px',
+    top: '0',
+    leftanimate: '+=150px',
+    leftanimateend: '-=250px',
+    topanimate: 'none',
+    topanimateend: 'none'};
 
   var lowerPosition = {
     transform: 'none',
     left:'-150px',
-    top: '400px',
+    bottom: '400px',
     leftanimate: '+=150px',
-    leftanimateend: '-=150px',
+    leftanimateend: '-=250px',
     topanimate: 'none',
     topanimateend: 'none'};
 
@@ -52,7 +52,7 @@ core.runpenguinAttack = function() {
   var rotatedTop = {
     transform: 'rotate(180deg)',
     left: '200px',
-    top: '-500px',
+    top: '-300px',
     leftanimate: '200px',
     leftanimateend: '200px',
     topanimate: '+=250px',
@@ -61,7 +61,7 @@ core.runpenguinAttack = function() {
   var middleTop = {
     transform: 'rotate(180deg)',
     left: '800px',
-    top: '-500px',
+    top: '-300px',
     leftanimate: '800px',
     leftanimateend: '800px',
     topanimate: '+=250px',
@@ -69,10 +69,10 @@ core.runpenguinAttack = function() {
 
   // choosing tributes from the army of penguins
   var penguin = $('.penguin-attack');
-  var penguins = [middleTop, rotatedTop, rotatedSide, lowerPosition];
+  var penguins = [middleTop, rotatedTop, rotatedSide, lowerPosition, normalPosition];
   var random_penguin = penguins[Math.floor(Math.random() * penguins.length)];
-
-  // sending the aplaca off to do its mission
+  console.log(random_penguin)
+  // sending the penguin off to do its mission
   penguin.css({
       'display': 'initial',
       'transform': random_penguin.transform,
