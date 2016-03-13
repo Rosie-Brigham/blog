@@ -204,3 +204,43 @@ pre {
         }
     }
 }
+
+/* site navbar begins! */
+// home version
+
+// .summer-site-head .summer-site-head-menu {
+//   background: white; }
+//   .summer-site-head .summer-site-head-menu .summer-blog-logo {
+//     display: inline-block;
+//     max-height: 5rem; }
+//     .summer-site-head .summer-site-head-menu .summer-blog-logo img {
+//       max-height: 5rem; }
+//   .summer-site-head .summer-site-head-menu .title {
+//     display: inline-block;
+//     padding: 0;
+//     padding-left: 1.25rem;
+//     height: 5rem;
+//     line-height: 5rem;
+//     vertical-align: middle;
+//     font-family: "Montserrat", sans-serif;
+//     font-size: 1.625rem;
+//     font-weight: 700;
+//     color: black;
+//     text-transform: uppercase;
+//     letter-spacing: -0.0625rem; }
+//     .summer-site-head .summer-site-head-menu .title a {
+//       color: black; }
+//       .summer-site-head .summer-site-head-menu .title a:hover {
+//         color: black; }
+
+// page version
+
+// logo
+.blog-logo {
+  display: inline;
+  img {
+    max-height: 60px;
+    margin: 10px;
+  }
+}
+
