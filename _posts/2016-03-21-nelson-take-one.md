@@ -4,17 +4,18 @@ published: true
 description: "Nelson - take one!"
 headline: ""
 modified: ""
-categories:
+categories: 
   - Nelson
   - South Island
   - New Zealand
 tags: "nelson, South Island"
-imagefeature: ""
+imagefeature: IMG_1771.jpg
 mathjax: false
 featured: false
 comments: false
 title: Nelson (take one)
 ---
+
 
 
 ## Nelson (first take)
@@ -43,4 +44,3 @@ Pet mince anyone?
 I did however, really like this little bit of graffiti I found at the bottom of a wall
 
 ![]({{site.baseurl}}/images/IMG_1771.jpg)
-
