@@ -26,7 +26,7 @@ On arrival at Picton we hopped straight on the bus to Nelson, a two hour trip, a
 
 The bus meanderd through the hills around Picton sounds and over the Pelorus River, where the Barrel Scene was filmed for The Hobbit. On a total tangent, this a really cool video about how they filmed around New Zealand. Is it lame I find the logistics around the filming far more interesting than the actual film?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RpzhljpENvo?list=PLKU1UfQZOnFNMZ7Kcgw7VNaxJ8RKIPlL5" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/RpzhljpENvo?list=PLKU1UfQZOnFNMZ7Kcgw7VNaxJ8RKIPlL5" frameborder="0" allowfullscreen></iframe></p>
 
 Anyhoo - we got to Nelson and got a lift to the hostel we were staying in that night. Called the Custom House - it has definately been one of the more 'characterful' hostels of the trip! A main road one side and a working shipping yard the other promised a healthy amount of noise day and night, and the owners dodgy second hand car dealership on the side ensured there was plently of (I'm sure fairly illegal) cars to borrow to ferry travellers to and from the center of town. It was probably once a nice house, and definately has the potential to be amazing, but no one had cleaned the kitchen for who knows how long and there was a strange smell. However, it was certainly the cheapest hostel I've found so far at $24!
 
