@@ -18,8 +18,6 @@ title: Nelson (take one)
 
 
 
-## Nelson (first take)
-
 I travelled over to Nelson with the lovely Lettie Roach from Wellington. She was soon to start a pHD is Antartic sea ice modelling but had a week to spare for a short adventure. So, after much pondering, we decided a tramp around the Nelson Lakes would be a grand idea. It also turned out to be a complicated idea, but more on that later.
 
 On arrival at Picton we hopped straight on the bus to Nelson, a two hour trip, and a very pleasant one at that. The South Island scenery is certainly more dramatic than the north; everything just seems a bit steeper, the shadows more contrasting and the colours slightly more vibrant (though I have some bias here).
