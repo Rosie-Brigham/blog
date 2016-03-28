@@ -9,7 +9,7 @@ categories:
   - New Zealand
   - Picton Sounds
 tags: "South Island, New Zealand, Crossing"
-imagefeature: ""
+imagefeature: aIMG_7722.JPG
 mathjax: false
 featured: false
 comments: false
@@ -27,8 +27,10 @@ A Mr Winter of [Keep Turning Left](http://www.keepturningleft.co.uk/) fame told 
 
 ![Arriving at the south island]({{site.baseurl}}/images/aIMG_7721.JPG)
 
-![Beautiful spot for a sail]({{site.baseurl}}/![aIMG_7723.JPG]({{site.baseurl}}/images/aIMG_7723.JPG)
-images/aIMG_7722.JPG)
+![Beautiful spot for a sail]({{site.baseurl}}/images/aIMG_7723.JPG)
+
+
+![Beautiful spot for a sail]({{site.baseurl}}/images/aIMG_7722.JPG)
 
 ![Amazing clouds]({{site.baseurl}}/images/aIMG_7723.JPG)
 
