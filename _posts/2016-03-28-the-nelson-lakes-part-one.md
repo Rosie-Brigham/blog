@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 description: The first instalment of a tramp around the Nelson lakes
 headline: "tramping part one!"
 modified: ""
