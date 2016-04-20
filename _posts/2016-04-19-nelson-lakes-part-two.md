@@ -29,4 +29,7 @@ The next day dawned bright and clear, which was great, as this day was basically
 ![]({{site.baseurl}}/images/aIMG_1844.jpg)
 
 ![]({{site.baseurl}}/images/aIMG_1795.jpg)
+![aIMG_1844.jpg]({{site.baseurl}}/images/aIMG_1844.jpg)
+![aIMG_1795.jpg]({{site.baseurl}}/images/aIMG_1795.jpg)
+![aIMG_1841.jpg]({{site.baseurl}}/images/aIMG_1841.jpg)
 
