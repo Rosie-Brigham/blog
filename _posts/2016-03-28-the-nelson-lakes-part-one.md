@@ -10,7 +10,7 @@ categories:
   - New Zealand
   - Tramping
 tags: "tramping, "
-imagefeature: 12440290_10208977685788743_1728829906140234472_o.jpg
+imagefeature: 12719587_10208977696309006_2693156358950605456_o.jpg
 mathjax: false
 featured: false
 comments: false
