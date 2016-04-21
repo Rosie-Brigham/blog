@@ -1,0 +1,20 @@
+---
+layout: page
+title: Gallery
+description: "Roo's blog iniit"
+headline: Galleru
+tags: [Room, blog, travel, New Zealand, programmer, code, tech, kiwi, food]
+---
+
+<article class="summer-page-content">
+  <div class="gallery">
+
+  {% for myimage in site.static_files %}
+    {% if myimage.path contains 'image' %}
+        <div class="gallery-window" style="background-image: url({{myimage.path}})">
+        </div>
+    {% endif %}
+  {% endfor %}
+
+  </div>
+</article>
