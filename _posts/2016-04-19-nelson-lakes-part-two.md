@@ -9,7 +9,7 @@ categories:
   - South Island
   - Nelson Lakes
 tags: Nelson Lakes
-imagefeature: aIMG_1795
+imagefeature: images/aIMG_1795
 mathjax: false
 featured: false
 comments: false
