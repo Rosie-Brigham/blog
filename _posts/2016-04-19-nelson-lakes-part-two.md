@@ -4,12 +4,12 @@ published: true
 description: Nelson Lakes part two
 headline: Nelson Lakes part two
 modified: ""
-categories: 
+categories:
   - New Zealand
   - South Island
   - Nelson Lakes
 tags: Nelson Lakes
-imagefeature: aIMG_1795.jpg
+imagefeature: aIMG_1794.jpg
 mathjax: false
 featured: false
 comments: false
@@ -64,6 +64,6 @@ Excellent! DOC (department of conservation) huts, (bivvies in UK terms) are just
 
 ![aIMG_1841.jpg]({{site.baseurl}}/images/aIMG_1841.jpg)
 
-The next morning dawned bright, and we very quickly ran down the mountain back to St Arnaud. The $45 shuttle bus left at one, but we reaaallllyy did not want to pay that much, so the plan was to try and hitch back to Nelson. After only ten mins of standing around waving at passing cars we got a lift to a highway interscetion, 20 mins down the road. Following that it was another 10 min wait to get a lift by a fairly nice but very tired Samoan chap back to Nelson. 
+The next morning dawned bright, and we very quickly ran down the mountain back to St Arnaud. The $45 shuttle bus left at one, but we reaaallllyy did not want to pay that much, so the plan was to try and hitch back to Nelson. After only ten mins of standing around waving at passing cars we got a lift to a highway interscetion, 20 mins down the road. Following that it was another 10 min wait to get a lift by a fairly nice but very tired Samoan chap back to Nelson.
 
 We got back to a much nicer hotsel, just off the beach, and after a VERY enjoyable and much needed shower spent the rest of the day replaxing with a bottle of wine, ice cream and a bizarre meal of leftover trail food.
