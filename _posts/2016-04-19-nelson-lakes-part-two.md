@@ -32,14 +32,11 @@ lalala
 ![]({{site.baseurl}}/images/aIMG_1799.jpg)
 
 
-{:.three-columns}
-![]({{site.baseurl}}/images/aIMG_1841.jpg)
 
-
-{:.three-columns}
+{:.two-columns}
 ![]({{site.baseurl}}/images/aIMG_1836.jpg)
 
-{:.three-columns}
+{:.two-columns}
 ![]({{site.baseurl}}/images/aIMG_1818.jpg)
 
 
