@@ -1,13 +1,15 @@
 ---
 layout: post
 published: true
-description: ""
-headline: ""
+description: Nelson Lakes part two
+headline: Nelson Lakes part two
 modified: ""
 categories: 
-  - "null"
-tags: ""
-imagefeature: ""
+  - New Zealand
+  - South Island
+  - Nelson Lakes
+tags: Nelson Lakes
+imagefeature: aIMG_1795
 mathjax: false
 featured: false
 comments: false
@@ -28,6 +30,8 @@ lalala
 {:.three-columns}
 ![]({{site.baseurl}}/images/aIMG_1799.jpg)
 
+
+
 {:.three-columns}
 ![]({{site.baseurl}}/images/aIMG_1818.jpg)
 
@@ -36,6 +40,8 @@ lalala
 
 {:.three-columns}
 ![]({{site.baseurl}}/images/aIMG_1836.jpg)
+
+
 
 {:.three-columns}
 ![]({{site.baseurl}}/images/aIMG_1841.jpg)
@@ -46,7 +52,9 @@ lalala
 {:.three-columns}
 ![]({{site.baseurl}}/images/aIMG_1844.jpg)
 
-![]({{site.baseurl}}/images/aIMG_1795.jpg)
+
+
+
 ![aIMG_1844.jpg]({{site.baseurl}}/images/aIMG_1844.jpg)
 ![aIMG_1795.jpg]({{site.baseurl}}/images/aIMG_1795.jpg)
 ![aIMG_1841.jpg]({{site.baseurl}}/images/aIMG_1841.jpg)
