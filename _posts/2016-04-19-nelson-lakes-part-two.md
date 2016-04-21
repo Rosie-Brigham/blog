@@ -4,12 +4,12 @@ published: true
 description: Nelson Lakes part two
 headline: Nelson Lakes part two
 modified: ""
-categories: 
+categories:
   - New Zealand
   - South Island
   - Nelson Lakes
 tags: Nelson Lakes
-imagefeature: images/aIMG_1795
+imagefeature: aIMG_1795.jpg
 mathjax: false
 featured: false
 comments: false
