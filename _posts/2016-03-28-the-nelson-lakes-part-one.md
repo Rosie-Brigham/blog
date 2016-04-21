@@ -4,13 +4,13 @@ published: true
 description: The first instalment of a tramp around the Nelson lakes
 headline: "tramping part one!"
 modified: ""
-categories: 
+categories:
   - South Island
   - Nelson Lakes
   - New Zealand
   - Tramping
 tags: "tramping, "
-imagefeature: 12440290_10208977685788743_1728829906140234472_o.jpg
+imagefeature: 12719587_10208977696309006_2693156358950605456_o.jpg
 mathjax: false
 featured: false
 comments: false
@@ -33,7 +33,7 @@ Unfortunately it was also full of sand flies. These are worse than mosquitos, mu
 The hut slept about 10, and we join a jolly group of four Americans on a fishing trip, a German triathlete, a Canadian girl and a French girl who were all tramping alone. A very jolly evening followed, as the americans (all natural science professors) had caught two big fish and so there was enough for everyone! The fish was wrapped and cooked in the fireplace, which was then built up to ward off the sandflies for the rest of the night.
 
 Day 2. Coldwater Hut to Angelus Hut
-We woke to rain, and lots of it, so we took a very relaxed appraoch to the day and only set off at 11. The route was about 4 hours or so, increasingly uphill. And boy was it steep at the end! 
+We woke to rain, and lots of it, so we took a very relaxed appraoch to the day and only set off at 11. The route was about 4 hours or so, increasingly uphill. And boy was it steep at the end!
 
 ![12440395_10208977812751917_270529994710965537_o.jpg]({{site.baseurl}}/images/12440395_10208977812751917_270529994710965537_o.jpg)
 
