@@ -15,6 +15,8 @@ title: Nelson Lakes part two
 ---
 The next day dawned bright and clear, which was great, as this day was basically stroll along a very long mountain ridge. Epic views followed.
 
+lalala
+
 ![]({{site.baseurl}}/images/aIMG_1785.jpg)
 
 {:.three-columns}
