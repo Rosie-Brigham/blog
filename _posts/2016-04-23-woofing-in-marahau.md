@@ -10,7 +10,7 @@ imagefeature: ""
 mathjax: false
 featured: false
 comments: false
-title: Woofing in Marahau
+title: WOOfing in Marahau
 ---
 ## A New Post
 
