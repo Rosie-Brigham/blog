@@ -8,7 +8,7 @@ categories:
   - tugs
   - new zealand
 tags: ""
-imagefeature: ""
+imagefeature: images/IMG_7737.JPG
 mathjax: false
 featured: false
 comments: false
