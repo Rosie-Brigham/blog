@@ -24,7 +24,7 @@ Anyway, congratulations on retirement Dad, here are some tugs you simply HAVE to
 
 ![Picton Tug]({{site.baseurl}}/images/IMG_7738.JPG)
 
-![Ferry Crossing TUg]({{site.baseurl}}/images/thumb_IMG_1699_1024.jpg)
+![crossing]({{site.baseurl}}/images/IMG_7737.JPG)
 
 ![and again...]({{site.baseurl}}/images/IMG_7736.JPG)
 
