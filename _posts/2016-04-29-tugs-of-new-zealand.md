@@ -26,8 +26,6 @@ Anyway, congratulations on retirement Dad, here are some tugs you simply HAVE to
 
 ![crossing]({{site.baseurl}}/images/IMG_7737.JPG)
 
-![and again...]({{site.baseurl}}/images/IMG_7736.JPG)
-
 ![Wellington Tug]({{site.baseurl}}/images/IMG_2398.jpg)
 
 ![Moar tugs]({{site.baseurl}}/images/IMAG1389.jpg)
