@@ -4,17 +4,17 @@ published: true
 description: tugs in new zealand
 headline: tugs of new zealand
 modified: ""
-categories: 
+categories:
   - tugs
   - new zealand
 tags: ""
-imagefeature: images/IMG_7737.JPG
+imagefeature: "IMG_7737.JPG"
 mathjax: false
 featured: false
 comments: false
 title: Tugs of New Zealand
 ---
-This is a post pretty much exclusively for my Dad, as he loves tugs. 
+This is a post pretty much exclusively for my Dad, as he loves tugs.
 
 I had intended to show him the vast array of different tugs in New Zealand, but then I realised the majority of my photos were all rather pants, so I've left quite a few out.
 
