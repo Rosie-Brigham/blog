@@ -69,7 +69,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://Rosie-Brigham.github.io/'
+  siteurl: 'http://Rosie-Brigham.github.io/blog'
   relativeLinks: 'http://Rosie-Brigham.github.io/links.jsonp'
   media: 'images'
   metadata:
