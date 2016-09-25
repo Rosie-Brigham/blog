@@ -71,7 +71,6 @@ core.runpenguinAttack = function() {
   var penguin = $('.penguin-attack');
   var penguins = [middleTop, rotatedTop, rotatedSide, lowerPosition, normalPosition];
   var random_penguin = penguins[Math.floor(Math.random() * penguins.length)];
-  console.log(random_penguin)
   // sending the penguin off to do its mission
   penguin.css({
       'display': 'initial',
